@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (milestone1.vcxproj, milestone2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TaskManager.cpp
+  milestone3.vcxproj -> C:\Users\camilo\Google Drive\milestone3\Debug\milestone3.exe
